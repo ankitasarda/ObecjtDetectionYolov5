@@ -1,2 +1,4 @@
-# ObecjtDetectionYolov5
-DEep Learning Project, Object Detection with Yolov5
+# ObjectDetectionYolov5
+Deep Learning Project, Object Detection with Yolov5
+
+
